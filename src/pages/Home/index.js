@@ -27,7 +27,7 @@ function About() {
   const checked = true;
 
   return (
-    <div style={{overflow: "hidden"}}>
+    <div style={{ overflow: "hidden" }}>
       <Grow
         in={checked}
         style={{ transformOrigin: "0 0 0" }}
@@ -40,7 +40,7 @@ function About() {
             <div id="image-div">
               <img
                 id="my-photo"
-                src="https://github.com/mrpagz/images/blob/master/francis.png"
+                src="https://github.com/mrpagz/images/blob/master/Francis.png?raw=true"
                 alt="Me, sitting"
               ></img>
             </div>
@@ -48,12 +48,9 @@ function About() {
             <Container>
               <div id="transparent-backdrop">
                 <p id="about">
-                  My name is Gavin O'Brien. I was born and raised in New Jersey.
-                  I currently have an Associate's Degree from Bergen Community
-                  college and will be attending the New Jersey Institute of
-                  Technology in the Fall. I am an aspiring web developer with
-                  great interest in developing apps that are equally aesthetic
-                  as they are functional.
+                  I am a Web Developer and a full-time Dad from New Jersey, USA. I love converting intricate Web code problems
+                  to a smooth and glassy code interface. I am always the Code Responder if your HTML, CSS, JAVASCRIPT and REACT is in
+                  "Code Blue".
                   {/* Check out some of my applications over here:
                 <IconButton>
                   <DoubleArrowIcon
@@ -70,14 +67,14 @@ function About() {
                       Contact me:
                     </strong>
                     <br />
-                    GavinOBrien56@gmail.com
+                    francisroy1124@gmail.com
                     <br />
-                    (201) 414-6122
+                    (856) 353 9153
                   </div>
                   <div id="contact-buttons">
                     <IconButton
                       aria-label="github"
-                      href="https://github.com/Gavin56"
+                      href="https://github.com/mrpagz"
                       color="primary"
                     >
                       <GitHubIcon></GitHubIcon>
