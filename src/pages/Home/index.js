@@ -83,7 +83,7 @@ function About() {
                     <IconButton
                       aria-label="linkedin"
                       color="primary"
-                      href="https://www.linkedin.com/in/gavin-o-brien-6829a61b4/"
+                      href=""
                     >
                       <LinkedInIcon></LinkedInIcon>
                     </IconButton>
@@ -97,7 +97,7 @@ function About() {
                         style={{
                           textDecoration: "none",
                         }}
-                        href="https://drive.google.com/file/d/16iPBQwg1EaKFSzm4a0Q-4eB7Q0s6cKND/view?usp=sharing"
+                        href=""
                       >
                         Resume
                       </a>
