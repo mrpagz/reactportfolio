@@ -106,7 +106,7 @@ export default function FullWidthTabs() {
           </Grid>
           <Grid item xs={12} md={6}>
             <h1 id="my-name" style={{ textAlign: "center",  }}>
-              Gavin O'Brien
+              Francis Roy Balasabas
             </h1>
           </Grid>
         </Grid>
