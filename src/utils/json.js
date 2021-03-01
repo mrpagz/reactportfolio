@@ -1,11 +1,11 @@
 const projects = [
     {
-      name: "Covid Test Locator",
-      description: "Utilize APIs to find and map COVID testing sites near you.",
+      name: "Movie Buddy",
+      description: "Your buddy in searching for your favorite movies.",
       image:
         "https://github.com/Gavin56/images/blob/main/Webp.net-resizeimage%20(3).png?raw=true",
       links: {
-        appLink: "https://gavin56.github.io/covid-locator/",
+        appLink: "https://moviebuddy1.herokuapp.com/",
         repoLink: "https://github.com/Gavin56/covid-locator",
       },
     },

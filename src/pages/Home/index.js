@@ -40,7 +40,7 @@ function About() {
             <div id="image-div">
               <img
                 id="my-photo"
-                src="https://github.com/mrpagz/images/blob/master/Francis.png?raw=true"
+                src="https://github.com/mrpagz/images/blob/master/portfolio/francisroy.png?raw=true"
                 alt="Me, sitting"
               ></img>
             </div>
