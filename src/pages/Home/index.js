@@ -83,7 +83,7 @@ function About() {
                     <IconButton
                       aria-label="linkedin"
                       color="primary"
-                      href=""
+                      href="https://www.linkedin.com/in/francis-roy-balasabas-21a5a5196/"
                     >
                       <LinkedInIcon></LinkedInIcon>
                     </IconButton>
