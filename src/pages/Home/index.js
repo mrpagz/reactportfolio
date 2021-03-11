@@ -35,7 +35,7 @@ function About() {
       >
         <Paper id="paper" className={classes.paper}>
           <div>
-            <h1 id="welcome">Welcome to my PAGE!!!</h1>
+            {/* <h1 id="welcome">Welcome to my PAGE!!!</h1> */}
 
             <div id="image-div">
               <img

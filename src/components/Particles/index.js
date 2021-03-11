@@ -8,7 +8,7 @@ export default function Particle() {
       options={{
         background: {
           color: {
-            value: "#202121",
+            value: "#b33cde",
           },
         },
         fpsLimit: 60,

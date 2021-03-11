@@ -12,10 +12,10 @@ body {
   }
   
   #my-photo {
-    float: left;
+    float: right;
     height: 200px;
     border-radius: 50%;
-    float: left;
+    float: right;
     margin-right: 50px;
     margin-left: 50px;
     margin-top: 20px;
