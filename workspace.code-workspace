@@ -1,7 +1,19 @@
 {
+<<<<<<< HEAD
     "folders": [
         {
             "path": ".."
         }
     ]
+=======
+	"folders": [
+		{
+			"path": "../../Project_3"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {}
+>>>>>>> parent of be9a417e... Updates
 }
