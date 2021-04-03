@@ -2,10 +2,7 @@
   "homepage": "https://mrpagz.github.io/reactportfolio",
   "name": "reactportfolio",
   "version": "0.1.0",
-  "engines": {
-    "node": "14.15.4",
-    "npm": "6.14.10"
-  },
+  "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.3",
     "@material-ui/icons": "^4.11.2",
@@ -15,7 +12,6 @@
     "bootstrap": "^4.6.0",
     "gh-pages": "^3.1.0",
     "materialize-css": "^1.0.0-rc.2",
-    "node": "^15.10.0",
     "node-sass": "^4.14.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
